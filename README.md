@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi, I'm Karan Dubey<br><br>🎓 BCA Student  <br>💻 Aspiring Software Developer  <br>🚀 worked for a startup (Modemp)<br><br>- 🌱 I’m learning Web Development (HTML, CSS, JavaScript)<br>- 🧠 Exploring programming languages like C, C++ and Python<br>- 💼 Interested in real-world projects and internships<br>- 📚 Building projects like a coaching website<br><br>📫 Reach me: karandubey26042004@gmail.com
+ 👋 Hi, I'm Karan Dubey<br><br>🎓 BCA Student  <br>💻 Aspiring Software Developer  <br>🚀 worked for a startup (Modemp)<br><br>- 🌱 I’m learning Web Development (HTML, CSS, JavaScript, python )<br>- 🧠 Exploring programming languages like C, C++ and Python<br>- 💼 Interested in real-world projects and internships<br>- 📚 Building projects like a coaching website<br><br>📫 Reach me: karandubey26042004@gmail.com
 
 
 ## 🌐 Socials:
